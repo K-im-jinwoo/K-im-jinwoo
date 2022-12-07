@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/71208129/191998692-b8fe7c6f-bcbf-4977-87a4-2f440953de2c.jpg" width="300"/>
+<img align="right" src="https://user-images.githubusercontent.com/71208129/206081619-ac73cbfd-1dfe-4c01-b113-6e879cc151e1.png" width="200"/>
 
 <h1> Hi, I'm Jinwoo Kim </h1>
 

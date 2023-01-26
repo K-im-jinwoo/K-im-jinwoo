@@ -22,6 +22,15 @@
 <img src="https://img.shields.io/badge/-HTML5-red" />
 <img src="https://img.shields.io/badge/-CSS3-blue" />         
 <img src="https://img.shields.io/badge/-JAVASCRIPT-yellow" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> 
 <img src="https://img.shields.io/badge/-PYTHON-blue" />
 <br /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-im-jinwoo&layout=compact)](https://github.com/K-im-jinwoo/github-readme-stats" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=zaqaz113" />
+<br/>
+<hr>
 <img src="https://img.shields.io/github/followers/K-im-jinwoo?style=social" alt="Jinwoo followers" />
+<br />
+  
+

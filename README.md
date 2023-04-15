@@ -16,20 +16,21 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css&logoColor=white"/>
 </p>
-
+<br /> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=K-im-jinwoo&theme=dark&show_icons=true">
   <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=K-im-jinwoo&show_icons=true">
  </picture>
-<br /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-im-jinwoo&layout=compact&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-im-jinwoo&layout=compact&theme=tokyonight" />
 
 
-  <br/>
+<br/>
 <hr>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=K-im-jinwoo.K-im-jinwoo" alt="visitors"> <img src="https://img.shields.io/github/followers/K-im-jinwoo?style=social" alt="Jinwoo followers" /></p>
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=K-im-jinwoo.K-im-jinwoo" alt="visitors"> 
+  <img src="https://img.shields.io/github/followers/K-im-jinwoo?style=social" alt="Jinwoo followers" />
+</p>
 
-<br />
   
 

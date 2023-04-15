@@ -7,6 +7,10 @@
 <li>💬 기초가 튼튼해 팀에게 도움이 되는 사람이 되고싶습니다.</li>
 </ul>
 <!-- 여기는 기술 스택 -->
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=K-im-jinwoo.K-im-jinwoo" alt="visitors"> 
+  <img src="https://img.shields.io/github/followers/K-im-jinwoo?style=social" alt="Jinwoo followers" />
+</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -17,20 +21,18 @@
   <img src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css&logoColor=white"/>
 </p>
 <br /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-im-jinwoo&layout=compact&theme=tokyonight" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=K-im-jinwoo&theme=dark&show_icons=true">
   <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=K-im-jinwoo&show_icons=true">
  </picture>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-im-jinwoo&layout=compact&theme=tokyonight" />
+
 
 
 <br/>
-<hr>
-<p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=K-im-jinwoo.K-im-jinwoo" alt="visitors"> 
-  <img src="https://img.shields.io/github/followers/K-im-jinwoo?style=social" alt="Jinwoo followers" />
-</p>
+
+
 
   
 
